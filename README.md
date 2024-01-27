@@ -1,6 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7A4F3&center=true&random=false&width=435&lines=Hello+%F0%9F%92%96%2C+My+name+is+Ivonne)](https://git.io/typing-svg)
 
+---------------------------------------
+
 <h4 align="center">I am a Machine Learning & AI Enthusiast. I have a bachelor's Degree in Mathematics from the University of Texas at Austin as well as a Master in Data Science from Harvard. I am still a young professional but I am trying to learn as much as possible. My interest include reading, crocheting, working out, & yummy food😋.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivonnem3&label=Profile%20views&color=0e75b6&style=flat" alt="ivonnem3" /> </p>
